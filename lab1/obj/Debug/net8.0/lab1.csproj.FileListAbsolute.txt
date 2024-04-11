@@ -1,0 +1,14 @@
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\bin\Debug\net8.0\lab1.exe
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\bin\Debug\net8.0\lab1.deps.json
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\bin\Debug\net8.0\lab1.dll
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\bin\Debug\net8.0\lab1.pdb
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\lab1.dll
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\refint\lab1.dll
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\lab1.pdb
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab1\obj\Debug\net8.0\ref\lab1.dll

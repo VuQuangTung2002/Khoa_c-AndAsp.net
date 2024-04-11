@@ -1,0 +1,14 @@
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\bin\Debug\net8.0\lab6.exe
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\bin\Debug\net8.0\lab6.deps.json
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\bin\Debug\net8.0\lab6.runtimeconfig.json
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\bin\Debug\net8.0\lab6.dll
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\bin\Debug\net8.0\lab6.pdb
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\lab6.AssemblyInfoInputs.cache
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\lab6.AssemblyInfo.cs
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\lab6.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\lab6.dll
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\refint\lab6.dll
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\lab6.pdb
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
+D:\xampp\htdocs\devpro\dotnet23\review\buoi2\lab6\obj\Debug\net8.0\ref\lab6.dll

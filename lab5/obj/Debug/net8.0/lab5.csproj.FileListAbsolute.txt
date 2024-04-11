@@ -1,0 +1,4 @@
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab5\obj\Debug\net8.0\lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab5\obj\Debug\net8.0\lab5.AssemblyInfoInputs.cache
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab5\obj\Debug\net8.0\lab5.AssemblyInfo.cs
+D:\chuyen_tu_o_c\xamm3\htdocs\khoa_fontend_react\khoa_hoc_c#\ngay3_3_2024\lab5\obj\Debug\net8.0\lab5.csproj.CoreCompileInputs.cache
